@@ -1,0 +1,14 @@
+Lâmpada A: Desligada e quente — controlada pelo Interruptor A.
+Lâmpada B: Ligada — controlada pelo Interruptor B.
+Lâmpada C: Desligada e fria — controlada pelo Interruptor C.
+
+Ligar o Interruptor A e esperar 10-15 minutos.
+Desligar o Interruptor A e ligar o Interruptor B.
+Ir até a sala das lâmpadas e observar:
+A lâmpada quente e desligada é controlada por A.
+A lâmpada ligada é controlada por B.
+A lâmpada fria e desligada é controlada por C.
+Dessa forma, você pode identificar corretamente qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
+
+
+
